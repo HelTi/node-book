@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/HelTi/node-book/issues"
   },
-  "homepage": "https://github.com/HelTi/node-book#readme"
+  "homepage": "https://github.com/HelTi/node-book#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
 }
