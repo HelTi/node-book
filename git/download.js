@@ -38,7 +38,3 @@ https.get('https://fscdn.zto.com/GetPublicFile/ztPK4Y-WGgWKiRNfkygd3oYQ/original
     }
   });
 })
-
-function downloadFile(url, { download_path = 'download' }) {
-  
-}
